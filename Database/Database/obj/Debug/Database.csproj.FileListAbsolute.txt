@@ -1,0 +1,10 @@
+c:\users\ahmed\documents\visual studio 2012\Projects\Database\Database\bin\Debug\Database.exe.config
+c:\users\ahmed\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.Form1.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\Database\Database\bin\Debug\Database.exe
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\Database\Database\bin\Debug\Database.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\Database\Database\bin\Debug\MySql.Data.dll
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\Database\Database\obj\Debug\Database.exe
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\Database\Database\obj\Debug\Database.pdb
